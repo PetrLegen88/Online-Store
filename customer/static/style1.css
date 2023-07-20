@@ -1,0 +1,260 @@
+nav li {
+    font-size: 20px;
+
+}
+
+h1 {
+   padding-left: 25px;
+   font-size: 36px;
+
+}
+
+.container {
+    text-align: center;
+
+
+}
+
+.form-control {
+    position: center;
+    width: 50%;
+    margin: auto;
+
+}
+
+.form-group {
+    text-align: center;
+
+}
+
+.Cart {
+    color: white;
+}
+
+
+div.item {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 353px;
+    height: 345px;
+    margin: 12px;
+
+    padding: 10px;
+}
+
+.main_cat_ul {
+    padding: 0px;
+}
+
+.caption {
+    display: block;
+
+}
+
+.btn-block {
+    margin: 5px;
+}
+
+button.btn-add_product {
+    margin-left: 30px;
+    font-size: 20px;
+    color: #fff;
+    background-color: #333;
+    border-color: black;
+    border-radius: 4px;
+    font-family: "Arial";
+}
+
+div.prod-details {
+    margin: 28px;
+    font-size: 22px;
+}
+
+span.description {
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.messages {
+    font-size: 20px;
+}
+
+h1.result {
+    margin-left: 13px;
+}
+
+table {
+  width: 75%;
+
+
+}
+
+th, td {
+  padding: 15px;
+  text-align: left;
+  border: 2px solid #ddd;
+}
+
+tr:hover {background-color: #5cb85c;}
+
+thead {
+    background-color: #333;
+    color: #fff;
+
+}
+
+.cart_design {
+    margin-left: 20px;
+}
+
+.amount {
+    margin-top: 5px;
+    width: 55px;
+    font-size: 17px;
+    height: 33px;
+}
+
+.pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.pagination a {
+    padding: 10px 15px;
+    background-color: #fff;
+    color: #333;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    text-decoration: none;
+    margin: 0 5px;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.pagination a:hover {
+    background-color: #333;
+    color: #fff;
+}
+
+.pagination .current-page {
+    padding: 10px 15px;
+    background-color: #333;
+    color: #fff;
+    border: 1px solid #333;
+    border-radius: 4px;
+    margin: 0 5px;
+}
+
+.current-page-range {
+    font-size: 18px;
+    display: block;
+    text-align: center;
+}
+
+.login_btn {
+    background-color: #5cb85c;
+    border-radius: 5px;
+    border: 0;
+    color: white;
+    padding: 10px 30px;
+    font-size: 20px;
+    position: absolute;
+    top: 350px;
+    left: 125px;
+}
+
+.sign_up_btn {
+    position: absolute;
+    top: 800px;
+    left: 420px;
+    font-size: 20px;
+    background-color: #5cb85c;
+    border-radius: 5px;
+    border: 0;
+    color: white;
+    padding: 10px 30px;
+}
+
+.sign_up_table {
+    display: flex;
+    justify-content: left;
+    margin-left: 20px;
+
+}
+
+.confirm_order_btn {
+
+    font-size: 20px;
+    background-color: #5cb85c;
+    border-radius: 5px;
+    border: 0;
+    color: white;
+    padding: 10px 30px;
+}
+
+.order_confirm_whole {
+    margin-left: 28px;
+}
+
+.new-product-form {
+    width: 500px;
+    margin: auto;
+}
+
+.new_prod_btn {
+    background-color: #5cb85c;
+    border-radius: 5px;
+    border: 0;
+    color: white;
+    font-size: 20px;
+    padding: 10px 35px;
+}
+
+.weird_container {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.hmmm {
+    font-size: 25px;
+    margin: 15px;
+}
+
+.temperature {
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+.thank_you {
+    margin-left: 15px;
+}
+
+footer {
+  text-align: center;
+  height: 80px;
+  color: white;
+  background: #333;
+  padding: 40px;
+  clip-path: polygon(0 30px, 100% 0, 100% 100%, 0 100%);
+  position: relative;
+  bottom: 0;
+  width: 100%;
+
+}
+
+.contact {
+    margin: 30px;
+}
+
+.url_contact {
+    margin-left: 20px;
+}
+
+.enter_address {
+    text-align: center;
+    margin-right: 70px;
+    font-size: 22px;
+}
